@@ -1,2 +1,3 @@
 # simple-java-chat
-A simple chat on java.
+Simple chat.
+Here represented a simple chat application based on websockets.
