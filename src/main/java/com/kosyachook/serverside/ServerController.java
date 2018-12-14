@@ -7,7 +7,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Vector;
 
-public class ConnectionController {
+public class ServerController {
     static Vector<ConnectionHandler> ar = new Vector<>();
 
     static int counter = 0;
